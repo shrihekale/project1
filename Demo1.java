@@ -1,3 +1,4 @@
+/* comment */
 import java.util.*;
 public class Demo1
 {
